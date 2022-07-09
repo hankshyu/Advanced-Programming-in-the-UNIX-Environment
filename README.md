@@ -1,2 +1,15 @@
 # Advanced_Programming_in_the_UNIX_Environment
 A graduate course on UNIX programming
+
+HW | brief description
+:---:|:-----
+1| [A 'lsof'-like program][l1]
+2| [Logger program that can show file-access-related activities of an arbitrary binary][l2]
+3| [Extend a mini C library to support signal relevant system calls in x86 Assembly][l3]
+4| [Scriptable Instruction Level Debugger][l4]
+
+
+[l1]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/tree/main/HW1
+[l2]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/tree/main/HW2
+[l3]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/tree/main/HW3
+[l4]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/tree/main/HW4
