@@ -2,8 +2,8 @@
 
 ### A graduate course on UNIX programming. More comments on the course could be seen [here](https://github.com/hankshyu/NYCU-Course/blob/main/Courses/semester%206/高等UNIX程式設計.md)
 
-HW | Specification |brief description
-:---:|:-----|:-----
+HW | Spec |brief description
+:---:|:-----:|:-----
 1|[⚙️][s1]|[A 'lsof'-like program][l1]
 2|[⚙️][s2]|[Logger program that can show file-access-related activities of an arbitrary binary][l2]
 3|[⚙️][s3]|[Extend a mini C library to support signal relevant system calls in x86 Assembly][l3]
