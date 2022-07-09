@@ -1,6 +1,6 @@
 # Advanced Programming in the UNIX Environment
 
-### A graduate course on UNIX programming.More comments on the course could be seen [here](https://github.com/hankshyu/NYCU-Course/blob/main/Courses/semester%206/高等UNIX程式設計.md)
+### A graduate course on UNIX programming. More comments on the course could be seen [here](https://github.com/hankshyu/NYCU-Course/blob/main/Courses/semester%206/高等UNIX程式設計.md)
 
 HW | brief description
 :---:|:-----
