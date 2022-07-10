@@ -10,6 +10,35 @@ A graduate course on UNIX programming. More comments on the course could be seen
 
 ## Textbook
 > W. Richard Stevens and Stephen A. Rago, “Advanced Programming in the UNIX Environment,” 2nd ed. or 3rd ed, Addison Wesley
+#### Topics
+
+Chap. | Topic |Slides
+:--------:|:-----
+1 |[Fundamental tools and shell programming][t1]
+2 |[Files and directories][t2]
+3 |[File I/O and standard I/O][t3]
+4 |[System data files and information][t4]
+5 |[Process environment][t5]
+6 |[Process control][t6]
+7 |[Signals][t7]
+8 |[Assembly language integration][t8]
+9 |[ptrace and applications][t9]
+10 |[Threads][t10]
+11 |[Inter-process communication][t11]
+12 |[Advanced IPC (Unix domain sockets)][t12]
+
+[t1]:
+[t2]:
+[t3]:
+[t4]:
+[t5]:
+[t6]:
+[t7]:
+[t8]:
+[t9]:
+[t10]:
+[t11]:
+[t12]:
 
 ## Labs 
 HW | Spec |brief description
