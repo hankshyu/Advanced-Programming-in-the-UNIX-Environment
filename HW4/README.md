@@ -35,7 +35,7 @@ The states include **any**, **not loaded**, **loaded**, and **running**.
 ## Details
 The details of each command are explained below. We use brackets right after a command to enclose the list of the state(s) that the command should support.
 
-- break or b [running]: Setup a break point. If a program is loaded but is not running, you can simply display an error message. When a break point is hit, you have to output a message and indicate the corresponding address and instruction. The address of the break point should be within the range specified by the text segment in the ELF file and will not be the same as the entry point.
+- **break** or **b** ==[running]==: Setup a break point. If a program is loaded but is not running, you can simply display an error message. When a break point is hit, you have to output a message and indicate the corresponding address and instruction. The address of the break point should be within the range specified by the text segment in the ELF file and will not be the same as the entry point.
 - cont or c [running]: continue the execution when a running program is stopped (suspended).
 - delete [running]: remove a break point. Please remember to handle illegal situations, like deleting non-existing break points.
 - disasm or d [running]: Disassemble instructions in a file or a memory region. The address of each instruction should be within the range specified by the text segment in the ELF file. You only have to dump 10 instructions for each command. If disasm command is executed without an address, you can simply output ** no addr is given. Please note that the output should not have the machine code cc. See the demonstration section for the sample output format.
