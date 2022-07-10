@@ -12,33 +12,44 @@ A graduate course on UNIX programming. More comments on the course could be seen
 > W. Richard Stevens and Stephen A. Rago, “Advanced Programming in the UNIX Environment,” 2nd ed. or 3rd ed, Addison Wesley
 #### Topics
 
-Chap. | Topic |Slides
-:--------:|:-----
-1 |[Fundamental tools and shell programming][t1]
-2 |[Files and directories][t2]
-3 |[File I/O and standard I/O][t3]
-4 |[System data files and information][t4]
-5 |[Process environment][t5]
-6 |[Process control][t6]
-7 |[Signals][t7]
-8 |[Assembly language integration][t8]
-9 |[ptrace and applications][t9]
-10 |[Threads][t10]
-11 |[Inter-process communication][t11]
-12 |[Advanced IPC (Unix domain sockets)][t12]
+Chap. | Topic |Slides 
+:--------:|:----- |:---
+1 |Fundamental tools and shell programming| [slide01][sl01]
+2 |Files and directories| [slide04][sl04] 
+3 |File I/O and standard I/O|[slide03+05][sl03+05]
+4 |System data files and information|[slide04][sl04] [slide06][sl06]
+5 |Process environment|[slide07][sl07]
+6 |Process control|[slide08][sl08]
+7 |Signals|[slide10][sl10]
+8 |Assembly language integration|[slide10.5][sl10.5]
+9 |ptrace and applications|[slide10.6][sl10.6]
+10 |Threads|[slide11][sl11] [slide12][sl12]
+11 |Inter-process communication|[slide15][sl15]
+12 |Advanced IPC (Unix domain sockets)|[slide17][sl17]
 
-[t1]:
-[t2]:
-[t3]:
-[t4]:
-[t5]:
-[t6]:
-[t7]:
-[t8]:
-[t9]:
-[t10]:
-[t11]:
-[t12]:
+[sl01]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/01-ov%2Btools.pdf
+[sl04]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/04-file%2Bdir.pdf
+[sl03+05]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/03%2B05-file%2Bstdio.pdf
+
+[sl04]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/04-file%2Bdir.pdf
+[sl06]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/06-sysinfo.pdf
+
+[sl07]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/07-procenv.pdf
+[sl08]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/08-procctrl.pdf
+[sl10]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/10-signals.pdf
+
+[sl10.5]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/10.5-assembly.pdf
+[sl10.6]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/10.6-ptrace.pdf
+
+[sl11]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/11-threads.pdf
+
+[sl12]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/12-threadctrl.pdf
+
+[sl15]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/15-classipc.pdf
+
+[sl17]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/17-advipc.pdf
+
+
 
 ## Labs 
 HW | Spec |brief description
