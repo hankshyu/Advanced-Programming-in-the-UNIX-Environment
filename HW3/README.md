@@ -28,7 +28,7 @@ $ ld -m elf_x86_64 --dynamic-linker /lib64/ld-linux-x86-64.so.2 -o test test.o s
 
 [startasm]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/HW3/start.asm
 
-```
+
 Please notice that there is a ```-nostdlib``` parameter passed to the compiler, which means that you ***could not*** use any existing functions implemented in the standard C library. Only the functions you have implemented in the libmini64.asm and libmini.c file can be used. In addition to your library source code, you also have to provide a corresponding libmini.h file. The testing codes will include this file and use the function prototypes and data types defined in the header file.
 
 You can build your libsmini.so by the following commands:
