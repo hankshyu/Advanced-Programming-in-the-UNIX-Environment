@@ -1,6 +1,6 @@
 # Monitor File Activities of Dynamically Linked Programs
 
-- In this homework, we aim to practice **library injection** and **API hijacking**. 
+- Aims to practice **library injection** and **API hijacking**. 
 - Implement a simple logger program that can show file-access-related activities of an arbitrary binary running on a Linux operating system. 
 - You have to implement your logger in two parts:
   1. One is a logger program that prepares the runtime environment to inject, load, and execute a monitored binary program. 
