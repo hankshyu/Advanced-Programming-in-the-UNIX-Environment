@@ -27,6 +27,18 @@ Chap. | Topic |Slides
 11 |Inter-process communication|[slide15][sl15]
 12 |Advanced IPC (Unix domain sockets)|[slide17][sl17]
 
+
+
+
+
+## Labs 
+Lab| Spec |Brief description |Materials
+:---:|:-----:|:-----
+[Lab 1][l1]|[⚙️][s1]|A 'lsof'-like program |[slide04][sl04] 
+[Lab 2][l2]|[⚙️][s2]|Logger program that can show file-access-related activities of an arbitrary binary|[slide07][sl07] [slide08][sl08]
+[Lab 3][l3]|[⚙️][s3]|Extend a mini C library to support signal relevant system calls in x86 Assembly|[slide10][sl10] [slide10.6][sl10.6]
+[Lab 4][l4]|[⚙️][s4]|Scriptable Instruction Level Debugger|
+
 [sl01]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/01-ov%2Btools.pdf
 [sl04]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/04-file%2Bdir.pdf
 [sl03+05]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/03%2B05-file%2Bstdio.pdf
@@ -48,18 +60,6 @@ Chap. | Topic |Slides
 [sl15]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/15-classipc.pdf
 
 [sl17]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/Slides/17-advipc.pdf
-
-
-
-## Labs 
-Lab| Spec |brief description
-:---:|:-----:|:-----
-[Lab 1][l1]|[⚙️][s1]|A 'lsof'-like program
-[Lab 2][l2]|[⚙️][s2]|Logger program that can show file-access-related activities of an arbitrary binary
-[Lab 3][l3]|[⚙️][s3]|Extend a mini C library to support signal relevant system calls in x86 Assembly
-[Lab 4][l4]|[⚙️][s4]|Scriptable Instruction Level Debugger
-
-
   
 [s1]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/HW1/unix_hw1.pdf
 [s2]:https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/HW2/unix_hw2.pdf
