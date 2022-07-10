@@ -6,7 +6,7 @@
   1. One is a logger program that prepares the runtime environment to inject, load, and execute a monitored binary program. 
   2. The other is a shared object that can be injected into a program by the logger using **LD_PRELOAD**. 
 - You have to dump the library calls as well as the passed parameters and the returned values. 
-- Detailed specification could be seen [here](https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/HW2/unix_hw2.pdf)
+
 
 
 ## Requirements
