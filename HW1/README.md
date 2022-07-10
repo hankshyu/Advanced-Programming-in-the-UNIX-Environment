@@ -112,7 +112,7 @@ Your program has to order the output lines by performing a numeric sort against 
 ### Run the command without root permission
 ```
 $ ./hw1| head -n 20
-COMMAND		    PID		USER		FD		TYPE		NODE		NAME
+COMMAND         PID		USER		FD		TYPE		NODE		NAME
 systemd         1		root		cwd		unknown				    /proc/1/cwd (Permission denied)
 systemd         1		root		rtd		unknown				    /proc/1/root (Permission denied)
 systemd         1		root		txt		unknown				    /proc/1/exe (Permission denied)
