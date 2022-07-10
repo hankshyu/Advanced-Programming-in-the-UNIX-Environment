@@ -1,7 +1,17 @@
 # Advanced Programming in the UNIX Environment
 
-### A graduate course on UNIX programming. More comments on the course could be seen [here](https://github.com/hankshyu/NYCU-Course/blob/main/Courses/semester%206/高等UNIX程式設計.md)
+A graduate course on UNIX programming. More comments on the course could be seen [here](https://github.com/hankshyu/NYCU-Course/blob/main/Courses/semester%206/高等UNIX程式設計.md)
 
+## Course Objective
+- UNIX programming tools
+- Library calls and system calls
+- Implement (console-based) tools and applications
+- Low-level programming in the UNIX environment
+
+## Textbook
+> W. Richard Stevens and Stephen A. Rago, “Advanced Programming in the UNIX Environment,” 2nd ed. or 3rd ed, Addison Wesley
+
+## Labs 
 HW | Spec |brief description
 :---:|:-----:|:-----
 1|[⚙️][s1]|[A 'lsof'-like program][l1]
