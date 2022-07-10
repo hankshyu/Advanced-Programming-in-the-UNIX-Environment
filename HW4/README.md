@@ -33,6 +33,7 @@ The states include **any**, **not loaded**, **loaded**, and **running**.
 - State **running** means that a command can only be used when the program is running. 
 - The following is the state flow chart:
 
+![state_diagram](https://user-images.githubusercontent.com/67572824/178149063-cd74e001-b840-4b8a-9a76-6c7e07f1051b.png)
 ## Details
 The details of each command are explained below. We use brackets right after a command to enclose the list of the state(s) that the command should support.
 
