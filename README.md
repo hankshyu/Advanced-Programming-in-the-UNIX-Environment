@@ -52,7 +52,7 @@ Chap. | Topic |Slides
 
 
 ## Labs 
-Lab| DetailSpec |brief description
+Lab| Spec |brief description
 :---:|:-----:|:-----
 [Lab 1][l1]|[⚙️][s1]|A 'lsof'-like program
 [Lab 2][l2]|[⚙️][s2]|Logger program that can show file-access-related activities of an arbitrary binary
