@@ -1,5 +1,6 @@
 # Simplified Scriptable Instruction Level Debugger
-- You have to implement a simple instruction-level debugger that allows a user to debug a program interactively at the assembly instruction level. You can implement the debugger by using the ptrace interface. 
+- You have to implement a simple instruction-level debugger that allows a user to debug a program interactively at the assembly instruction level. 
+- You can implement the debugger by using the ```ptrace(2)``` interface. 
 - Your program should read user commands from either user inputs (by default) or a predefined script (if -s option is given). Please check the demonstration section for the sample input and the corresponding output for more details about the implementation. The usage of this homework is:
     ```usage: ./hw4 [-s script] [program]```
 - The commands you have to implement are summarized as follows:
