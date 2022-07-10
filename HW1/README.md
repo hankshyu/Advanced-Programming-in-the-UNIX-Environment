@@ -2,7 +2,7 @@
 
 - 'lsof' is a tool to list open files, it can be used to list all the files opened by processes running in the system. 
 - The output of your homework is required to follow the spec strictly. 
-- Detailed specification could be seen [here](https://github.com/hankshyu/Advanced-Programming-in-the-UNIX-Environment/blob/main/HW1/unix_hw1.pdf)
+
 
 ## Program Arguments
 
