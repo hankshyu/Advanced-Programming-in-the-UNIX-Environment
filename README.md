@@ -32,7 +32,7 @@ Chap. | Topic |Slides
 
 
 ## Labs 
-Lab| Spec |Brief description |Keywords
+Lab| Spec(PDF) |Brief description |Keywords
 :---:|:-----:|:-----|:---
 [Lab1][l1]|[⚙️][s1]|A 'lsof'-like program |[FILE I/O][sl04] [Files and directories][sl04] [System data files][sl06]
 [Lab2][l2]|[⚙️][s2]|Logger program that can show file-access-related activities of an arbitrary binary|[Process environment][sl07] [Process control][sl08]
